@@ -1,0 +1,3383 @@
+- dutch: mooi
+  english: beautiful
+  type: adjective
+  difficulty: 1
+  labels:
+    - appearance
+    - positive
+
+- dutch: groot
+  english: big
+  type: adjective
+  difficulty: 1
+  labels:
+    - size
+    - physical
+
+- dutch: klein
+  english: small
+  type: adjective
+  difficulty: 1
+  labels:
+    - size
+    - physical
+
+- dutch: blij
+  english: happy
+  type: adjective
+  difficulty: 2
+  labels:
+    - emotion
+    - positive
+
+- dutch: boos
+  english: angry
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - negative
+
+- dutch: langzaam
+  english: slow
+  type: adjective
+  difficulty: 4
+  labels:
+    - speed
+    - neutral
+
+- dutch: snel
+  english: fast
+  type: adjective
+  difficulty: 2
+  labels:
+    - speed
+    - positive
+
+- dutch: warm
+  english: warm
+  type: adjective
+  difficulty: 2
+  labels:
+    - temperature
+    - physical
+
+- dutch: koud
+  english: cold
+  type: adjective
+  difficulty: 3
+  labels:
+    - temperature
+    - physical
+
+- dutch: sterk
+  english: strong
+  type: adjective
+  difficulty: 2
+  labels:
+    - physical
+    - positive
+
+- dutch: zwak
+  english: weak
+  type: adjective
+  difficulty: 4
+  labels:
+    - physical
+    - negative
+
+- dutch: duur
+  english: expensive
+  type: adjective
+  difficulty: 4
+  labels:
+    - cost
+    - neutral
+
+- dutch: goedkoop
+  english: cheap
+  type: adjective
+  difficulty: 3
+  labels:
+    - cost
+    - positive
+
+- dutch: nieuw
+  english: new
+  type: adjective
+  difficulty: 2
+  labels:
+    - time
+    - positive
+
+- dutch: oud
+  english: old
+  type: adjective
+  difficulty: 2
+  labels:
+    - time
+    - neutral
+
+- dutch: lekker
+  english: tasty
+  type: adjective
+  difficulty: 1
+  labels:
+    - taste
+    - positive
+
+- dutch: vies
+  english: dirty
+  type: adjective
+  difficulty: 4
+  labels:
+    - hygiene
+    - negative
+
+- dutch: schoon
+  english: clean
+  type: adjective
+  difficulty: 3
+  labels:
+    - hygiene
+    - positive
+
+- dutch: zwaar
+  english: heavy
+  type: adjective
+  difficulty: 4
+  labels:
+    - weight
+    - neutral
+
+- dutch: licht
+  english: light
+  type: adjective
+  difficulty: 3
+  labels:
+    - weight
+    - neutral
+
+- dutch: mooi
+  english: pretty
+  type: adjective
+  difficulty: 1
+  labels:
+    - appearance
+    - positive
+
+- dutch: lelijk
+  english: ugly
+  type: adjective
+  difficulty: 5
+  labels:
+    - appearance
+    - negative
+
+- dutch: moeilijk
+  english: difficult
+  type: adjective
+  difficulty: 4
+  labels:
+    - intellectual
+    - neutral
+
+- dutch: makkelijk
+  english: easy
+  type: adjective
+  difficulty: 2
+  labels:
+    - intellectual
+    - positive
+
+- dutch: eerlijk
+  english: honest
+  type: adjective
+  difficulty: 3
+  labels:
+    - character
+    - positive
+
+- dutch: oneerlijk
+  english: dishonest
+  type: adjective
+  difficulty: 5
+  labels:
+    - character
+    - negative
+
+- dutch: rijk
+  english: rich
+  type: adjective
+  difficulty: 2
+  labels:
+    - status
+    - positive
+
+- dutch: arm
+  english: poor
+  type: adjective
+  difficulty: 3
+  labels:
+    - status
+    - negative
+
+- dutch: gezond
+  english: healthy
+  type: adjective
+  difficulty: 2
+  labels:
+    - health
+    - positive
+
+- dutch: ziek
+  english: sick
+  type: adjective
+  difficulty: 3
+  labels:
+    - health
+    - negative
+
+- dutch: open
+  english: open
+  type: adjective
+  difficulty: 2
+  labels:
+    - accessibility
+    - neutral
+
+- dutch: gesloten
+  english: closed
+  type: adjective
+  difficulty: 3
+  labels:
+    - accessibility
+    - neutral
+
+- dutch: nat
+  english: wet
+  type: adjective
+  difficulty: 3
+  labels:
+    - physical
+    - neutral
+
+- dutch: droog
+  english: dry
+  type: adjective
+  difficulty: 2
+  labels:
+    - physical
+    - neutral
+
+- dutch: gelukkig
+  english: lucky
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - positive
+
+- dutch: ongelukkig
+  english: unlucky
+  type: adjective
+  difficulty: 5
+  labels:
+    - emotion
+    - negative
+
+- dutch: rustig
+  english: calm
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - positive
+
+- dutch: druk
+  english: busy
+  type: adjective
+  difficulty: 2
+  labels:
+    - emotion
+    - neutral
+
+- dutch: levendig
+  english: lively
+  type: adjective
+  difficulty: 5
+  labels:
+    - personality
+    - positive
+
+- dutch: saai
+  english: boring
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - negative
+
+- dutch: gevaarlijk
+  english: dangerous
+  type: adjective
+  difficulty: 4
+  labels:
+    - safety
+    - negative
+
+- dutch: veilig
+  english: safe
+  type: adjective
+  difficulty: 2
+  labels:
+    - safety
+    - positive
+
+- dutch: stil
+  english: quiet
+  type: adjective
+  difficulty: 3
+  labels:
+    - sound
+    - positive
+
+- dutch: luid
+  english: loud
+  type: adjective
+  difficulty: 3
+  labels:
+    - sound
+    - negative
+
+- dutch: zwaar
+  english: tough
+  type: adjective
+  difficulty: 3
+  labels:
+    - situation
+    - neutral
+
+- dutch: makkelijk
+  english: simple
+  type: adjective
+  difficulty: 2
+  labels:
+    - situation
+    - positive
+
+- dutch: glanzend
+  english: shiny
+  type: adjective
+  difficulty: 5
+  labels:
+    - appearance
+    - neutral
+
+- dutch: dof
+  english: dull
+  type: adjective
+  difficulty: 5
+  labels:
+    - appearance
+    - negative
+- dutch: breed
+  english: wide
+  type: adjective
+  difficulty: 2
+  labels:
+    - size
+    - physical
+
+- dutch: smal
+  english: narrow
+  type: adjective
+  difficulty: 3
+  labels:
+    - size
+    - physical
+
+- dutch: hoog
+  english: high
+  type: adjective
+  difficulty: 2
+  labels:
+    - height
+    - physical
+
+- dutch: laag
+  english: low
+  type: adjective
+  difficulty: 2
+  labels:
+    - height
+    - physical
+
+- dutch: helder
+  english: clear
+  type: adjective
+  difficulty: 3
+  labels:
+    - clarity
+    - positive
+
+- dutch: troebel
+  english: cloudy
+  type: adjective
+  difficulty: 4
+  labels:
+    - clarity
+    - negative
+
+- dutch: diep
+  english: deep
+  type: adjective
+  difficulty: 3
+  labels:
+    - depth
+    - physical
+
+- dutch: ondiep
+  english: shallow
+  type: adjective
+  difficulty: 4
+  labels:
+    - depth
+    - physical
+
+- dutch: trots
+  english: proud
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - positive
+
+- dutch: bescheiden
+  english: modest
+  type: adjective
+  difficulty: 5
+  labels:
+    - personality
+    - positive
+
+- dutch: verlegen
+  english: shy
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - neutral
+
+- dutch: jaloers
+  english: jealous
+  type: adjective
+  difficulty: 5
+  labels:
+    - emotion
+    - negative
+
+- dutch: aantrekkelijk
+  english: attractive
+  type: adjective
+  difficulty: 3
+  labels:
+    - appearance
+    - positive
+
+- dutch: onaantrekkelijk
+  english: unattractive
+  type: adjective
+  difficulty: 5
+  labels:
+    - appearance
+    - negative
+
+- dutch: schattig
+  english: cute
+  type: adjective
+  difficulty: 2
+  labels:
+    - appearance
+    - positive
+
+- dutch: raar
+  english: weird
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - negative
+
+- dutch: normaal
+  english: normal
+  type: adjective
+  difficulty: 2
+  labels:
+    - personality
+    - neutral
+
+- dutch: vrolijk
+  english: cheerful
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - positive
+
+- dutch: somber
+  english: gloomy
+  type: adjective
+  difficulty: 5
+  labels:
+    - emotion
+    - negative
+
+- dutch: scherp
+  english: sharp
+  type: adjective
+  difficulty: 3
+  labels:
+    - texture
+    - physical
+
+- dutch: bot
+  english: blunt
+  type: adjective
+  difficulty: 4
+  labels:
+    - texture
+    - physical
+
+- dutch: zacht
+  english: soft
+  type: adjective
+  difficulty: 2
+  labels:
+    - texture
+    - positive
+
+- dutch: hard
+  english: hard
+  type: adjective
+  difficulty: 2
+  labels:
+    - texture
+    - neutral
+
+- dutch: snel
+  english: quick
+  type: adjective
+  difficulty: 2
+  labels:
+    - speed
+    - positive
+
+- dutch: traag
+  english: sluggish
+  type: adjective
+  difficulty: 4
+  labels:
+    - speed
+    - negative
+
+- dutch: bekend
+  english: famous
+  type: adjective
+  difficulty: 3
+  labels:
+    - status
+    - positive
+
+- dutch: onbekend
+  english: unknown
+  type: adjective
+  difficulty: 4
+  labels:
+    - status
+    - neutral
+
+- dutch: mogelijk
+  english: possible
+  type: adjective
+  difficulty: 2
+  labels:
+    - probability
+    - neutral
+
+- dutch: onmogelijk
+  english: impossible
+  type: adjective
+  difficulty: 3
+  labels:
+    - probability
+    - negative
+
+- dutch: gevaarlijk
+  english: risky
+  type: adjective
+  difficulty: 3
+  labels:
+    - safety
+    - negative
+
+- dutch: nuttig
+  english: useful
+  type: adjective
+  difficulty: 3
+  labels:
+    - utility
+    - positive
+
+- dutch: nutteloos
+  english: useless
+  type: adjective
+  difficulty: 4
+  labels:
+    - utility
+    - negative
+
+- dutch: slim
+  english: clever
+  type: adjective
+  difficulty: 2
+  labels:
+    - intellectual
+    - positive
+
+- dutch: dom
+  english: dumb
+  type: adjective
+  difficulty: 3
+  labels:
+    - intellectual
+    - negative
+
+- dutch: gezond
+  english: fit
+  type: adjective
+  difficulty: 2
+  labels:
+    - health
+    - positive
+
+- dutch: ongezond
+  english: unhealthy
+  type: adjective
+  difficulty: 4
+  labels:
+    - health
+    - negative
+
+- dutch: lawaaierig
+  english: noisy
+  type: adjective
+  difficulty: 4
+  labels:
+    - sound
+    - negative
+
+- dutch: stil
+  english: silent
+  type: adjective
+  difficulty: 3
+  labels:
+    - sound
+    - positive
+
+- dutch: koel
+  english: cool
+  type: adjective
+  difficulty: 3
+  labels:
+    - temperature
+    - neutral
+
+- dutch: heet
+  english: hot
+  type: adjective
+  difficulty: 3
+  labels:
+    - temperature
+    - physical
+
+- dutch: aardig
+  english: kind
+  type: adjective
+  difficulty: 2
+  labels:
+    - character
+    - positive
+
+- dutch: gemeen
+  english: mean
+  type: adjective
+  difficulty: 3
+  labels:
+    - character
+    - negative
+
+- dutch: gelukkig
+  english: fortunate
+  type: adjective
+  difficulty: 2
+  labels:
+    - emotion
+    - positive
+
+- dutch: droevig
+  english: sad
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - negative
+
+- dutch: stevig
+  english: sturdy
+  type: adjective
+  difficulty: 4
+  labels:
+    - strength
+    - positive
+
+- dutch: kwetsbaar
+  english: fragile
+  type: adjective
+  difficulty: 4
+  labels:
+    - strength
+    - negative
+- dutch: armzalig
+  english: miserable
+  type: adjective
+  difficulty: 5
+  labels:
+    - emotion
+    - negative
+
+- dutch: beroemd
+  english: renowned
+  type: adjective
+  difficulty: 4
+  labels:
+    - status
+    - positive
+
+- dutch: bedreven
+  english: skilled
+  type: adjective
+  difficulty: 4
+  labels:
+    - ability
+    - positive
+
+- dutch: klungelig
+  english: clumsy
+  type: adjective
+  difficulty: 5
+  labels:
+    - ability
+    - negative
+
+- dutch: moedig
+  english: brave
+  type: adjective
+  difficulty: 4
+  labels:
+    - character
+    - positive
+
+- dutch: laf
+  english: cowardly
+  type: adjective
+  difficulty: 5
+  labels:
+    - character
+    - negative
+
+- dutch: knap
+  english: handsome
+  type: adjective
+  difficulty: 2
+  labels:
+    - appearance
+    - positive
+
+- dutch: slordig
+  english: messy
+  type: adjective
+  difficulty: 4
+  labels:
+    - organization
+    - negative
+
+- dutch: netjes
+  english: tidy
+  type: adjective
+  difficulty: 3
+  labels:
+    - organization
+    - positive
+
+- dutch: pijnlijk
+  english: painful
+  type: adjective
+  difficulty: 4
+  labels:
+    - sensation
+    - negative
+
+- dutch: prettig
+  english: pleasant
+  type: adjective
+  difficulty: 3
+  labels:
+    - sensation
+    - positive
+
+- dutch: nieuwsgierig
+  english: curious
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - positive
+
+- dutch: afgelegen
+  english: remote
+  type: adjective
+  difficulty: 5
+  labels:
+    - location
+    - neutral
+
+- dutch: nabij
+  english: nearby
+  type: adjective
+  difficulty: 3
+  labels:
+    - location
+    - neutral
+
+- dutch: rommelig
+  english: chaotic
+  type: adjective
+  difficulty: 4
+  labels:
+    - organization
+    - negative
+
+- dutch: kalm
+  english: peaceful
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - positive
+
+- dutch: gespannen
+  english: tense
+  type: adjective
+  difficulty: 4
+  labels:
+    - emotion
+    - negative
+
+- dutch: verrukt
+  english: ecstatic
+  type: adjective
+  difficulty: 5
+  labels:
+    - emotion
+    - positive
+
+- dutch: vers
+  english: fresh
+  type: adjective
+  difficulty: 3
+  labels:
+    - quality
+    - positive
+
+- dutch: oubollig
+  english: outdated
+  type: adjective
+  difficulty: 5
+  labels:
+    - quality
+    - negative
+
+- dutch: gevaarlijk
+  english: hazardous
+  type: adjective
+  difficulty: 4
+  labels:
+    - safety
+    - negative
+
+- dutch: redelijk
+  english: reasonable
+  type: adjective
+  difficulty: 3
+  labels:
+    - judgment
+    - positive
+
+- dutch: onredelijk
+  english: unreasonable
+  type: adjective
+  difficulty: 4
+  labels:
+    - judgment
+    - negative
+
+- dutch: energiek
+  english: energetic
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - positive
+
+- dutch: uitgeput
+  english: exhausted
+  type: adjective
+  difficulty: 4
+  labels:
+    - health
+    - negative
+
+- dutch: behulpzaam
+  english: helpful
+  type: adjective
+  difficulty: 3
+  labels:
+    - personality
+    - positive
+
+- dutch: egoïstisch
+  english: selfish
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - negative
+
+- dutch: onverschillig
+  english: indifferent
+  type: adjective
+  difficulty: 5
+  labels:
+    - emotion
+    - neutral
+
+- dutch: geduldig
+  english: patient
+  type: adjective
+  difficulty: 3
+  labels:
+    - character
+    - positive
+
+- dutch: ongeduldig
+  english: impatient
+  type: adjective
+  difficulty: 4
+  labels:
+    - character
+    - negative
+
+- dutch: gevoelig
+  english: sensitive
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - neutral
+
+- dutch: robuust
+  english: robust
+  type: adjective
+  difficulty: 4
+  labels:
+    - strength
+    - positive
+
+- dutch: breekbaar
+  english: delicate
+  type: adjective
+  difficulty: 4
+  labels:
+    - strength
+    - negative
+
+- dutch: welvarend
+  english: prosperous
+  type: adjective
+  difficulty: 4
+  labels:
+    - status
+    - positive
+
+- dutch: armoedig
+  english: impoverished
+  type: adjective
+  difficulty: 5
+  labels:
+    - status
+    - negative
+
+- dutch: helder
+  english: bright
+  type: adjective
+  difficulty: 3
+  labels:
+    - clarity
+    - positive
+
+- dutch: donker
+  english: dark
+  type: adjective
+  difficulty: 2
+  labels:
+    - clarity
+    - neutral
+
+- dutch: zuur
+  english: sour
+  type: adjective
+  difficulty: 3
+  labels:
+    - taste
+    - negative
+
+- dutch: zoet
+  english: sweet
+  type: adjective
+  difficulty: 2
+  labels:
+    - taste
+    - positive
+
+- dutch: bitter
+  english: bitter
+  type: adjective
+  difficulty: 3
+  labels:
+    - taste
+    - neutral
+
+- dutch: vet
+  english: fatty
+  type: adjective
+  difficulty: 3
+  labels:
+    - taste
+    - negative
+
+- dutch: knapperig
+  english: crispy
+  type: adjective
+  difficulty: 4
+  labels:
+    - texture
+    - positive
+
+- dutch: taai
+  english: tough
+  type: adjective
+  difficulty: 4
+  labels:
+    - texture
+    - negative
+
+- dutch: stevig
+  english: firm
+  type: adjective
+  difficulty: 3
+  labels:
+    - texture
+    - neutral
+
+- dutch: slap
+  english: limp
+  type: adjective
+  difficulty: 5
+  labels:
+    - texture
+    - negative
+
+- dutch: elastisch
+  english: elastic
+  type: adjective
+  difficulty: 4
+  labels:
+    - texture
+    - positive
+
+- dutch: zwaar
+  english: burdensome
+  type: adjective
+  difficulty: 3
+  labels:
+    - situation
+    - negative
+- dutch: scherpzinnig
+  english: perceptive
+  type: adjective
+  difficulty: 4
+  labels:
+    - intellectual
+    - positive
+
+- dutch: oppervlakkig
+  english: superficial
+  type: adjective
+  difficulty: 5
+  labels:
+    - intellectual
+    - negative
+
+- dutch: vaag
+  english: vague
+  type: adjective
+  difficulty: 4
+  labels:
+    - clarity
+    - negative
+
+- dutch: gedetailleerd
+  english: detailed
+  type: adjective
+  difficulty: 3
+  labels:
+    - clarity
+    - positive
+
+- dutch: aantrekkelijk
+  english: appealing
+  type: adjective
+  difficulty: 3
+  labels:
+    - appearance
+    - positive
+
+- dutch: onaangenaam
+  english: unpleasant
+  type: adjective
+  difficulty: 4
+  labels:
+    - sensation
+    - negative
+
+- dutch: leergierig
+  english: eager to learn
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - positive
+
+- dutch: lui
+  english: lazy
+  type: adjective
+  difficulty: 3
+  labels:
+    - personality
+    - negative
+
+- dutch: ijverig
+  english: diligent
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - positive
+
+- dutch: boos
+  english: angry
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - negative
+
+- dutch: hoopvol
+  english: hopeful
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - positive
+
+- dutch: waardig
+  english: dignified
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - positive
+
+- dutch: onwaardig
+  english: unworthy
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - negative
+
+- dutch: kleurrijk
+  english: colorful
+  type: adjective
+  difficulty: 3
+  labels:
+    - appearance
+    - positive
+
+- dutch: kleurloos
+  english: colorless
+  type: adjective
+  difficulty: 4
+  labels:
+    - appearance
+    - neutral
+
+- dutch: bloeiend
+  english: flourishing
+  type: adjective
+  difficulty: 4
+  labels:
+    - status
+    - positive
+
+- dutch: vervallen
+  english: decayed
+  type: adjective
+  difficulty: 5
+  labels:
+    - status
+    - negative
+
+- dutch: intens
+  english: intense
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - neutral
+
+- dutch: matig
+  english: moderate
+  type: adjective
+  difficulty: 3
+  labels:
+    - intensity
+    - neutral
+
+- dutch: volledig
+  english: complete
+  type: adjective
+  difficulty: 3
+  labels:
+    - state
+    - positive
+
+- dutch: onvolledig
+  english: incomplete
+  type: adjective
+  difficulty: 4
+  labels:
+    - state
+    - negative
+
+- dutch: verrassend
+  english: surprising
+  type: adjective
+  difficulty: 3
+  labels:
+    - reaction
+    - positive
+
+- dutch: voorspelbaar
+  english: predictable
+  type: adjective
+  difficulty: 3
+  labels:
+    - reaction
+    - neutral
+
+- dutch: voorzichtig
+  english: careful
+  type: adjective
+  difficulty: 3
+  labels:
+    - action
+    - positive
+
+- dutch: roekeloos
+  english: reckless
+  type: adjective
+  difficulty: 4
+  labels:
+    - action
+    - negative
+
+- dutch: ruim
+  english: spacious
+  type: adjective
+  difficulty: 3
+  labels:
+    - size
+    - positive
+
+- dutch: krap
+  english: cramped
+  type: adjective
+  difficulty: 4
+  labels:
+    - size
+    - negative
+
+- dutch: modern
+  english: modern
+  type: adjective
+  difficulty: 2
+  labels:
+    - time
+    - positive
+
+- dutch: ouderwets
+  english: old-fashioned
+  type: adjective
+  difficulty: 3
+  labels:
+    - time
+    - negative
+
+- dutch: ambitieus
+  english: ambitious
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - positive
+
+- dutch: passief
+  english: passive
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - neutral
+
+- dutch: bewust
+  english: conscious
+  type: adjective
+  difficulty: 3
+  labels:
+    - awareness
+    - positive
+
+- dutch: onbewust
+  english: unconscious
+  type: adjective
+  difficulty: 3
+  labels:
+    - awareness
+    - negative
+
+- dutch: elegant
+  english: elegant
+  type: adjective
+  difficulty: 3
+  labels:
+    - appearance
+    - positive
+
+- dutch: lomp
+  english: clumsy
+  type: adjective
+  difficulty: 4
+  labels:
+    - appearance
+    - negative
+
+- dutch: opwindend
+  english: exciting
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - positive
+
+- dutch: saai
+  english: boring
+  type: adjective
+  difficulty: 2
+  labels:
+    - emotion
+    - negative
+
+- dutch: helder
+  english: lucid
+  type: adjective
+  difficulty: 3
+  labels:
+    - clarity
+    - positive
+
+- dutch: versleten
+  english: worn-out
+  type: adjective
+  difficulty: 5
+  labels:
+    - state
+    - negative
+
+- dutch: betaalbaar
+  english: affordable
+  type: adjective
+  difficulty: 3
+  labels:
+    - economy
+    - positive
+
+- dutch: duur
+  english: expensive
+  type: adjective
+  difficulty: 2
+  labels:
+    - economy
+    - negative
+
+- dutch: interessant
+  english: interesting
+  type: adjective
+  difficulty: 2
+  labels:
+    - emotion
+    - positive
+
+- dutch: vervelend
+  english: annoying
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - negative
+
+- dutch: zelfverzekerd
+  english: confident
+  type: adjective
+  difficulty: 3
+  labels:
+    - personality
+    - positive
+
+- dutch: onzeker
+  english: insecure
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - negative
+
+- dutch: vermakelijk
+  english: entertaining
+  type: adjective
+  difficulty: 3
+  labels:
+    - reaction
+    - positive
+
+- dutch: gespannen
+  english: anxious
+  type: adjective
+  difficulty: 4
+  labels:
+    - emotion
+    - negative
+
+- dutch: logisch
+  english: logical
+  type: adjective
+  difficulty: 3
+  labels:
+    - intellectual
+    - positive
+
+- dutch: absurd
+  english: absurd
+  type: adjective
+  difficulty: 4
+  labels:
+    - intellectual
+    - negative
+- dutch: veelzijdig
+  english: versatile
+  type: adjective
+  difficulty: 3
+  labels:
+    - personality
+    - positive
+
+- dutch: beperkt
+  english: limited
+  type: adjective
+  difficulty: 3
+  labels:
+    - scope
+    - negative
+
+- dutch: flexibel
+  english: flexible
+  type: adjective
+  difficulty: 3
+  labels:
+    - adaptability
+    - positive
+
+- dutch: stijf
+  english: rigid
+  type: adjective
+  difficulty: 4
+  labels:
+    - adaptability
+    - negative
+
+- dutch: krachtig
+  english: powerful
+  type: adjective
+  difficulty: 3
+  labels:
+    - strength
+    - positive
+
+- dutch: zwak
+  english: weak
+  type: adjective
+  difficulty: 2
+  labels:
+    - strength
+    - negative
+
+- dutch: warm
+  english: warm
+  type: adjective
+  difficulty: 1
+  labels:
+    - temperature
+    - neutral
+
+- dutch: koud
+  english: cold
+  type: adjective
+  difficulty: 1
+  labels:
+    - temperature
+    - neutral
+
+- dutch: levendig
+  english: lively
+  type: adjective
+  difficulty: 3
+  labels:
+    - personality
+    - positive
+
+- dutch: doods
+  english: lifeless
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - negative
+
+- dutch: bescheiden
+  english: modest
+  type: adjective
+  difficulty: 3
+  labels:
+    - character
+    - positive
+
+- dutch: opschepperig
+  english: boastful
+  type: adjective
+  difficulty: 4
+  labels:
+    - character
+    - negative
+
+- dutch: krachteloos
+  english: powerless
+  type: adjective
+  difficulty: 4
+  labels:
+    - strength
+    - negative
+
+- dutch: zonnig
+  english: sunny
+  type: adjective
+  difficulty: 2
+  labels:
+    - weather
+    - positive
+
+- dutch: bewolkt
+  english: cloudy
+  type: adjective
+  difficulty: 3
+  labels:
+    - weather
+    - neutral
+
+- dutch: vochtig
+  english: humid
+  type: adjective
+  difficulty: 3
+  labels:
+    - weather
+    - neutral
+
+- dutch: droog
+  english: dry
+  type: adjective
+  difficulty: 2
+  labels:
+    - weather
+    - neutral
+
+- dutch: helder
+  english: clear
+  type: adjective
+  difficulty: 2
+  labels:
+    - weather
+    - positive
+
+- dutch: stormachtig
+  english: stormy
+  type: adjective
+  difficulty: 4
+  labels:
+    - weather
+    - negative
+
+- dutch: bedwelmend
+  english: intoxicating
+  type: adjective
+  difficulty: 5
+  labels:
+    - sensation
+    - neutral
+
+- dutch: flauw
+  english: bland
+  type: adjective
+  difficulty: 3
+  labels:
+    - taste
+    - negative
+
+- dutch: pittig
+  english: spicy
+  type: adjective
+  difficulty: 3
+  labels:
+    - taste
+    - neutral
+
+- dutch: zoetig
+  english: slightly sweet
+  type: adjective
+  difficulty: 4
+  labels:
+    - taste
+    - neutral
+
+- dutch: glibberig
+  english: slippery
+  type: adjective
+  difficulty: 4
+  labels:
+    - texture
+    - neutral
+
+- dutch: glad
+  english: smooth
+  type: adjective
+  difficulty: 3
+  labels:
+    - texture
+    - positive
+
+- dutch: ruw
+  english: rough
+  type: adjective
+  difficulty: 3
+  labels:
+    - texture
+    - negative
+
+- dutch: stil
+  english: quiet
+  type: adjective
+  difficulty: 2
+  labels:
+    - sound
+    - neutral
+
+- dutch: luid
+  english: loud
+  type: adjective
+  difficulty: 2
+  labels:
+    - sound
+    - neutral
+
+- dutch: gezellig
+  english: cozy
+  type: adjective
+  difficulty: 2
+  labels:
+    - atmosphere
+    - positive
+
+- dutch: ongezellig
+  english: unwelcoming
+  type: adjective
+  difficulty: 3
+  labels:
+    - atmosphere
+    - negative
+
+- dutch: heftig
+  english: intense
+  type: adjective
+  difficulty: 4
+  labels:
+    - intensity
+    - neutral
+
+- dutch: gevoelloos
+  english: insensitive
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - negative
+
+- dutch: bezorgd
+  english: concerned
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - negative
+
+- dutch: gereserveerd
+  english: reserved
+  type: adjective
+  difficulty: 3
+  labels:
+    - personality
+    - neutral
+
+- dutch: openhartig
+  english: candid
+  type: adjective
+  difficulty: 3
+  labels:
+    - personality
+    - positive
+
+- dutch: oppervlakkig
+  english: shallow
+  type: adjective
+  difficulty: 4
+  labels:
+    - intellectual
+    - negative
+
+- dutch: diepgaand
+  english: profound
+  type: adjective
+  difficulty: 4
+  labels:
+    - intellectual
+    - positive
+
+- dutch: constant
+  english: constant
+  type: adjective
+  difficulty: 2
+  labels:
+    - consistency
+    - neutral
+
+- dutch: wisselend
+  english: variable
+  type: adjective
+  difficulty: 3
+  labels:
+    - consistency
+    - neutral
+
+- dutch: krachtig
+  english: strong
+  type: adjective
+  difficulty: 2
+  labels:
+    - strength
+    - positive
+
+- dutch: emotioneel
+  english: emotional
+  type: adjective
+  difficulty: 2
+  labels:
+    - personality
+    - neutral
+
+- dutch: neutraal
+  english: neutral
+  type: adjective
+  difficulty: 2
+  labels:
+    - personality
+    - neutral
+
+- dutch: instabiel
+  english: unstable
+  type: adjective
+  difficulty: 4
+  labels:
+    - state
+    - negative
+
+- dutch: stabiel
+  english: stable
+  type: adjective
+  difficulty: 3
+  labels:
+    - state
+    - positive
+
+- dutch: briljant
+  english: brilliant
+  type: adjective
+  difficulty: 3
+  labels:
+    - intellectual
+    - positive
+
+- dutch: middelmatig
+  english: mediocre
+  type: adjective
+  difficulty: 4
+  labels:
+    - quality
+    - negative
+- dutch: soepel
+  english: supple
+  type: adjective
+  difficulty: 2
+  labels:
+    - texture
+    - positive
+
+- dutch: stevig
+  english: sturdy
+  type: adjective
+  difficulty: 3
+  labels:
+    - strength
+    - positive
+
+- dutch: broos
+  english: fragile
+  type: adjective
+  difficulty: 4
+  labels:
+    - strength
+    - negative
+
+- dutch: doorzichtig
+  english: transparent
+  type: adjective
+  difficulty: 3
+  labels:
+    - appearance
+    - neutral
+
+- dutch: ondoorzichtig
+  english: opaque
+  type: adjective
+  difficulty: 4
+  labels:
+    - appearance
+    - neutral
+
+- dutch: kleurrijk
+  english: colorful
+  type: adjective
+  difficulty: 2
+  labels:
+    - appearance
+    - positive
+
+- dutch: kleurloos
+  english: colorless
+  type: adjective
+  difficulty: 3
+  labels:
+    - appearance
+    - neutral
+
+- dutch: gestroomlijnd
+  english: streamlined
+  type: adjective
+  difficulty: 4
+  labels:
+    - design
+    - positive
+
+- dutch: hoekig
+  english: angular
+  type: adjective
+  difficulty: 3
+  labels:
+    - design
+    - neutral
+
+- dutch: rommelig
+  english: messy
+  type: adjective
+  difficulty: 3
+  labels:
+    - organization
+    - negative
+
+- dutch: georganiseerd
+  english: organized
+  type: adjective
+  difficulty: 2
+  labels:
+    - organization
+    - positive
+
+- dutch: uniek
+  english: unique
+  type: adjective
+  difficulty: 3
+  labels:
+    - quality
+    - positive
+
+- dutch: algemeen
+  english: general
+  type: adjective
+  difficulty: 2
+  labels:
+    - scope
+    - neutral
+
+- dutch: specifiek
+  english: specific
+  type: adjective
+  difficulty: 3
+  labels:
+    - scope
+    - neutral
+
+- dutch: uitgebreid
+  english: extensive
+  type: adjective
+  difficulty: 3
+  labels:
+    - scope
+    - positive
+
+- dutch: beperkt
+  english: restricted
+  type: adjective
+  difficulty: 3
+  labels:
+    - scope
+    - negative
+
+- dutch: klassiek
+  english: classic
+  type: adjective
+  difficulty: 2
+  labels:
+    - style
+    - positive
+
+- dutch: modern
+  english: modern
+  type: adjective
+  difficulty: 2
+  labels:
+    - style
+    - positive
+
+- dutch: ouderwets
+  english: old-fashioned
+  type: adjective
+  difficulty: 3
+  labels:
+    - style
+    - negative
+
+- dutch: artistiek
+  english: artistic
+  type: adjective
+  difficulty: 3
+  labels:
+    - creativity
+    - positive
+
+- dutch: creatief
+  english: creative
+  type: adjective
+  difficulty: 2
+  labels:
+    - creativity
+    - positive
+
+- dutch: gemiddeld
+  english: average
+  type: adjective
+  difficulty: 2
+  labels:
+    - measurement
+    - neutral
+
+- dutch: uitzonderlijk
+  english: exceptional
+  type: adjective
+  difficulty: 4
+  labels:
+    - quality
+    - positive
+
+- dutch: enorm
+  english: enormous
+  type: adjective
+  difficulty: 2
+  labels:
+    - size
+    - neutral
+
+- dutch: piepklein
+  english: tiny
+  type: adjective
+  difficulty: 3
+  labels:
+    - size
+    - neutral
+
+- dutch: laag
+  english: low
+  type: adjective
+  difficulty: 2
+  labels:
+    - height
+    - neutral
+
+- dutch: hoog
+  english: high
+  type: adjective
+  difficulty: 2
+  labels:
+    - height
+    - neutral
+
+- dutch: traag
+  english: slow
+  type: adjective
+  difficulty: 2
+  labels:
+    - speed
+    - neutral
+
+- dutch: snel
+  english: fast
+  type: adjective
+  difficulty: 2
+  labels:
+    - speed
+    - neutral
+
+- dutch: jong
+  english: young
+  type: adjective
+  difficulty: 1
+  labels:
+    - age
+    - neutral
+
+- dutch: oud
+  english: old
+  type: adjective
+  difficulty: 1
+  labels:
+    - age
+    - neutral
+
+- dutch: ontspannen
+  english: relaxed
+  type: adjective
+  difficulty: 2
+  labels:
+    - emotion
+    - positive
+
+- dutch: gespannen
+  english: tense
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - negative
+
+- dutch: ambitieus
+  english: ambitious
+  type: adjective
+  difficulty: 3
+  labels:
+    - personality
+    - positive
+
+- dutch: tevreden
+  english: content
+  type: adjective
+  difficulty: 2
+  labels:
+    - emotion
+    - positive
+
+- dutch: ontevreden
+  english: dissatisfied
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - negative
+
+- dutch: enthousiast
+  english: enthusiastic
+  type: adjective
+  difficulty: 2
+  labels:
+    - emotion
+    - positive
+
+- dutch: somber
+  english: gloomy
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - negative
+
+- dutch: vriendelijk
+  english: friendly
+  type: adjective
+  difficulty: 2
+  labels:
+    - personality
+    - positive
+
+- dutch: vijandig
+  english: hostile
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - negative
+
+- dutch: helder
+  english: bright
+  type: adjective
+  difficulty: 2
+  labels:
+    - light
+    - positive
+
+- dutch: donker
+  english: dark
+  type: adjective
+  difficulty: 2
+  labels:
+    - light
+    - neutral
+
+- dutch: zeldzaam
+  english: rare
+  type: adjective
+  difficulty: 3
+  labels:
+    - frequency
+    - neutral
+
+- dutch: alledaags
+  english: mundane
+  type: adjective
+  difficulty: 3
+  labels:
+    - frequency
+    - negative
+
+- dutch: enorm
+  english: immense
+  type: adjective
+  difficulty: 2
+  labels:
+    - size
+    - positive
+
+- dutch: zuiver
+  english: pure
+  type: adjective
+  difficulty: 3
+  labels:
+    - quality
+    - positive
+- dutch: soepel
+  english: supple
+  type: adjective
+  difficulty: 2
+  labels:
+    - texture
+    - positive
+
+- dutch: stevig
+  english: sturdy
+  type: adjective
+  difficulty: 3
+  labels:
+    - strength
+    - positive
+
+- dutch: broos
+  english: fragile
+  type: adjective
+  difficulty: 4
+  labels:
+    - strength
+    - negative
+
+- dutch: doorzichtig
+  english: transparent
+  type: adjective
+  difficulty: 3
+  labels:
+    - appearance
+    - neutral
+
+- dutch: ondoorzichtig
+  english: opaque
+  type: adjective
+  difficulty: 4
+  labels:
+    - appearance
+    - neutral
+
+- dutch: kleurrijk
+  english: colorful
+  type: adjective
+  difficulty: 2
+  labels:
+    - appearance
+    - positive
+
+- dutch: kleurloos
+  english: colorless
+  type: adjective
+  difficulty: 3
+  labels:
+    - appearance
+    - neutral
+
+- dutch: gestroomlijnd
+  english: streamlined
+  type: adjective
+  difficulty: 4
+  labels:
+    - design
+    - positive
+
+- dutch: hoekig
+  english: angular
+  type: adjective
+  difficulty: 3
+  labels:
+    - design
+    - neutral
+
+- dutch: rommelig
+  english: messy
+  type: adjective
+  difficulty: 3
+  labels:
+    - organization
+    - negative
+
+- dutch: georganiseerd
+  english: organized
+  type: adjective
+  difficulty: 2
+  labels:
+    - organization
+    - positive
+
+- dutch: uniek
+  english: unique
+  type: adjective
+  difficulty: 3
+  labels:
+    - quality
+    - positive
+
+- dutch: algemeen
+  english: general
+  type: adjective
+  difficulty: 2
+  labels:
+    - scope
+    - neutral
+
+- dutch: specifiek
+  english: specific
+  type: adjective
+  difficulty: 3
+  labels:
+    - scope
+    - neutral
+
+- dutch: uitgebreid
+  english: extensive
+  type: adjective
+  difficulty: 3
+  labels:
+    - scope
+    - positive
+
+- dutch: beperkt
+  english: restricted
+  type: adjective
+  difficulty: 3
+  labels:
+    - scope
+    - negative
+
+- dutch: klassiek
+  english: classic
+  type: adjective
+  difficulty: 2
+  labels:
+    - style
+    - positive
+
+- dutch: modern
+  english: modern
+  type: adjective
+  difficulty: 2
+  labels:
+    - style
+    - positive
+
+- dutch: ouderwets
+  english: old-fashioned
+  type: adjective
+  difficulty: 3
+  labels:
+    - style
+    - negative
+
+- dutch: artistiek
+  english: artistic
+  type: adjective
+  difficulty: 3
+  labels:
+    - creativity
+    - positive
+
+- dutch: creatief
+  english: creative
+  type: adjective
+  difficulty: 2
+  labels:
+    - creativity
+    - positive
+
+- dutch: gemiddeld
+  english: average
+  type: adjective
+  difficulty: 2
+  labels:
+    - measurement
+    - neutral
+
+- dutch: uitzonderlijk
+  english: exceptional
+  type: adjective
+  difficulty: 4
+  labels:
+    - quality
+    - positive
+
+- dutch: enorm
+  english: enormous
+  type: adjective
+  difficulty: 2
+  labels:
+    - size
+    - neutral
+
+- dutch: piepklein
+  english: tiny
+  type: adjective
+  difficulty: 3
+  labels:
+    - size
+    - neutral
+
+- dutch: laag
+  english: low
+  type: adjective
+  difficulty: 2
+  labels:
+    - height
+    - neutral
+
+- dutch: hoog
+  english: high
+  type: adjective
+  difficulty: 2
+  labels:
+    - height
+    - neutral
+
+- dutch: traag
+  english: slow
+  type: adjective
+  difficulty: 2
+  labels:
+    - speed
+    - neutral
+
+- dutch: snel
+  english: fast
+  type: adjective
+  difficulty: 2
+  labels:
+    - speed
+    - neutral
+
+- dutch: jong
+  english: young
+  type: adjective
+  difficulty: 1
+  labels:
+    - age
+    - neutral
+
+- dutch: oud
+  english: old
+  type: adjective
+  difficulty: 1
+  labels:
+    - age
+    - neutral
+
+- dutch: ontspannen
+  english: relaxed
+  type: adjective
+  difficulty: 2
+  labels:
+    - emotion
+    - positive
+
+- dutch: gespannen
+  english: tense
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - negative
+
+- dutch: ambitieus
+  english: ambitious
+  type: adjective
+  difficulty: 3
+  labels:
+    - personality
+    - positive
+
+- dutch: tevreden
+  english: content
+  type: adjective
+  difficulty: 2
+  labels:
+    - emotion
+    - positive
+
+- dutch: ontevreden
+  english: dissatisfied
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - negative
+
+- dutch: enthousiast
+  english: enthusiastic
+  type: adjective
+  difficulty: 2
+  labels:
+    - emotion
+    - positive
+
+- dutch: somber
+  english: gloomy
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - negative
+
+- dutch: vriendelijk
+  english: friendly
+  type: adjective
+  difficulty: 2
+  labels:
+    - personality
+    - positive
+
+- dutch: vijandig
+  english: hostile
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - negative
+
+- dutch: helder
+  english: bright
+  type: adjective
+  difficulty: 2
+  labels:
+    - light
+    - positive
+
+- dutch: donker
+  english: dark
+  type: adjective
+  difficulty: 2
+  labels:
+    - light
+    - neutral
+
+- dutch: zeldzaam
+  english: rare
+  type: adjective
+  difficulty: 3
+  labels:
+    - frequency
+    - neutral
+
+- dutch: alledaags
+  english: mundane
+  type: adjective
+  difficulty: 3
+  labels:
+    - frequency
+    - negative
+
+- dutch: enorm
+  english: immense
+  type: adjective
+  difficulty: 2
+  labels:
+    - size
+    - positive
+
+- dutch: zuiver
+  english: pure
+  type: adjective
+  difficulty: 3
+  labels:
+    - quality
+    - positive
+- dutch: loom
+  english: sluggish
+  type: adjective
+  difficulty: 3
+  labels:
+    - physical
+    - negative
+
+- dutch: actief
+  english: active
+  type: adjective
+  difficulty: 2
+  labels:
+    - personality
+    - positive
+
+- dutch: vaal
+  english: pale
+  type: adjective
+  difficulty: 3
+  labels:
+    - appearance
+    - neutral
+
+- dutch: stralend
+  english: radiant
+  type: adjective
+  difficulty: 3
+  labels:
+    - appearance
+    - positive
+
+- dutch: beleefd
+  english: polite
+  type: adjective
+  difficulty: 2
+  labels:
+    - personality
+    - positive
+
+- dutch: onbeleefd
+  english: rude
+  type: adjective
+  difficulty: 3
+  labels:
+    - personality
+    - negative
+
+- dutch: luidruchtig
+  english: noisy
+  type: adjective
+  difficulty: 3
+  labels:
+    - behavior
+    - negative
+
+- dutch: stil
+  english: quiet
+  type: adjective
+  difficulty: 2
+  labels:
+    - behavior
+    - neutral
+
+- dutch: vlak
+  english: flat
+  type: adjective
+  difficulty: 2
+  labels:
+    - shape
+    - neutral
+
+- dutch: gebogen
+  english: curved
+  type: adjective
+  difficulty: 3
+  labels:
+    - shape
+    - neutral
+
+- dutch: gestructureerd
+  english: structured
+  type: adjective
+  difficulty: 3
+  labels:
+    - organization
+    - positive
+
+- dutch: ongeorganiseerd
+  english: unorganized
+  type: adjective
+  difficulty: 3
+  labels:
+    - organization
+    - negative
+
+- dutch: warmhartig
+  english: warm-hearted
+  type: adjective
+  difficulty: 2
+  labels:
+    - personality
+    - positive
+
+- dutch: kil
+  english: cold-hearted
+  type: adjective
+  difficulty: 4
+  labels:
+    - personality
+    - negative
+
+- dutch: vredig
+  english: peaceful
+  type: adjective
+  difficulty: 2
+  labels:
+    - emotion
+    - positive
+
+- dutch: agressief
+  english: aggressive
+  type: adjective
+  difficulty: 3
+  labels:
+    - emotion
+    - negative
+
+- dutch: dof
+  english: dull
+  type: adjective
+  difficulty: 3
+  labels:
+    - appearance
+    - negative
+
+- dutch: glanzend
+  english: shiny
+  type: adjective
+  difficulty: 2
+  labels:
+    - appearance
+    - positive
+
+- dutch: elastisch
+  english: elastic
+  type: adjective
+  difficulty: 3
+  labels:
+    - texture
+    - positive
+
+- dutch: stug
+  english: rigid
+  type: adjective
+  difficulty: 3
+  labels:
+    - texture
+    - neutral
+
+- dutch: feestelijk
+  english: festive
+  type: adjective
+  difficulty: 2
+  labels:
+    - atmosphere
+    - positive
+
+- dutch: somber
+  english: somber
+  type: adjective
+  difficulty: 3
+  labels:
+    - atmosphere
+    - negative
+
+- dutch: kleurrijk
+  english: vibrant
+  type: adjective
+  difficulty: 3
+  labels:
+    - appearance
+    - positive
+
+- dutch: vaag
+  english: blurry
+  type: adjective
+  difficulty: 3
+  labels:
+    - appearance
+    - negative
+
+- dutch: dik
+  english: thick
+  type: adjective
+  difficulty: 2
+  labels:
+    - size
+    - neutral
+
+- dutch: dun
+  english: thin
+  type: adjective
+  difficulty: 2
+  labels:
+    - size
+    - neutral
+
+- dutch: stabiel
+  english: stable
+  type: adjective
+  difficulty: 2
+  labels:
+    - quality
+    - positive
+
+- dutch: wankel
+  english: unstable
+  type: adjective
+  difficulty: 3
+  labels:
+    - quality
+    - negative
+
+- dutch: grappig
+  english: funny
+  type: adjective
+  difficulty: 2
+  labels:
+    - personality
+    - positive
+
+- dutch: saai
+  english: dull
+  type: adjective
+  difficulty: 2
+  labels:
+    - personality
+    - negative
+
+- dutch: zacht
+  english: soft
+  type: adjective
+  difficulty: 1
+  labels:
+    - texture
+    - neutral
+
+- dutch: ruw
+  english: rough
+  type: adjective
+  difficulty: 2
+  labels:
+    - texture
+    - neutral
+
+- dutch: uitgestrekt
+  english: vast
+  type: adjective
+  difficulty: 3
+  labels:
+    - size
+    - neutral
+
+- dutch: klein
+  english: small
+  type: adjective
+  difficulty: 1
+  labels:
+    - size
+    - neutral
+
+- dutch: ideaal
+  english: ideal
+  type: adjective
+  difficulty: 2
+  labels:
+    - quality
+    - positive
+
+- dutch: onmogelijk
+  english: impossible
+  type: adjective
+  difficulty: 3
+  labels:
+    - quality
+    - negative
+
+- dutch: netjes
+  english: neat
+  type: adjective
+  difficulty: 2
+  labels:
+    - organization
+    - positive
+
+- dutch: rommelig
+  english: untidy
+  type: adjective
+  difficulty: 3
+  labels:
+    - organization
+    - negative
+
+- dutch: breed
+  english: wide
+  type: adjective
+  difficulty: 1
+  labels:
+    - size
+    - neutral
+
+- dutch: smal
+  english: narrow
+  type: adjective
+  difficulty: 2
+  labels:
+    - size
+    - neutral
+
+- dutch: diep
+  english: deep
+  type: adjective
+  difficulty: 2
+  labels:
+    - dimension
+    - neutral
+
+- dutch: ondiep
+  english: shallow
+  type: adjective
+  difficulty: 3
+  labels:
+    - dimension
+    - neutral
+
+- dutch: geurig
+  english: fragrant
+  type: adjective
+  difficulty: 2
+  labels:
+    - scent
+    - positive
+
+- dutch: stinkend
+  english: stinky
+  type: adjective
+  difficulty: 3
+  labels:
+    - scent
+    - negative
+
+- dutch: flexibel
+  english: flexible
+  type: adjective
+  difficulty: 2
+  labels:
+    - personality
+    - positive
+
+- dutch: koppig
+  english: stubborn
+  type: adjective
+  difficulty: 3
+  labels:
+    - personality
+    - negative
+
+- dutch: glad
+  english: smooth
+  type: adjective
+  difficulty: 1
+  labels:
+    - texture
+    - positive
+
+- dutch: grof
+  english: coarse
+  type: adjective
+  difficulty: 3
+  labels:
+    - texture
+    - negative
+- dutch: argeloos
+  english: unsuspecting
+  type: adjective
+  difficulty: 5
+  labels:
+    - personality
+    - neutral
+
+- dutch: chaotisch
+  english: chaotic
+  type: adjective
+  difficulty: 5
+  labels:
+    - organization
+    - negative
+
+- dutch: complex
+  english: complex
+  type: adjective
+  difficulty: 5
+  labels:
+    - complexity
+    - neutral
+
+- dutch: degelijk
+  english: reliable
+  type: adjective
+  difficulty: 5
+  labels:
+    - quality
+    - positive
+
+- dutch: eigenaardig
+  english: peculiar
+  type: adjective
+  difficulty: 5
+  labels:
+    - personality
+    - neutral
+
+- dutch: euforisch
+  english: euphoric
+  type: adjective
+  difficulty: 5
+  labels:
+    - emotion
+    - positive
+
+- dutch: flamboyant
+  english: flamboyant
+  type: adjective
+  difficulty: 5
+  labels:
+    - personality
+    - positive
+
+- dutch: genuanceerd
+  english: nuanced
+  type: adjective
+  difficulty: 6
+  labels:
+    - quality
+    - positive
+
+- dutch: gedurfd
+  english: daring
+  type: adjective
+  difficulty: 5
+  labels:
+    - personality
+    - positive
+
+- dutch: hectisch
+  english: hectic
+  type: adjective
+  difficulty: 5
+  labels:
+    - environment
+    - negative
+
+- dutch: harmonieus
+  english: harmonious
+  type: adjective
+  difficulty: 5
+  labels:
+    - environment
+    - positive
+
+- dutch: imponerend
+  english: imposing
+  type: adjective
+  difficulty: 5
+  labels:
+    - appearance
+    - neutral
+
+- dutch: intrinsiek
+  english: intrinsic
+  type: adjective
+  difficulty: 6
+  labels:
+    - quality
+    - neutral
+
+- dutch: intens
+  english: intense
+  type: adjective
+  difficulty: 5
+  labels:
+    - emotion
+    - neutral
+
+- dutch: intuïtief
+  english: intuitive
+  type: adjective
+  difficulty: 5
+  labels:
+    - personality
+    - positive
+
+- dutch: ironisch
+  english: ironic
+  type: adjective
+  difficulty: 6
+  labels:
+    - emotion
+    - neutral
+
+- dutch: kortzichtig
+  english: shortsighted
+  type: adjective
+  difficulty: 5
+  labels:
+    - personality
+    - negative
+
+- dutch: kunstzinnig
+  english: artistic
+  type: adjective
+  difficulty: 5
+  labels:
+    - personality
+    - positive
+
+- dutch: melancholisch
+  english: melancholic
+  type: adjective
+  difficulty: 5
+  labels:
+    - emotion
+    - negative
+
+- dutch: monumentaal
+  english: monumental
+  type: adjective
+  difficulty: 5
+  labels:
+    - appearance
+    - positive
+
+- dutch: nostalgisch
+  english: nostalgic
+  type: adjective
+  difficulty: 5
+  labels:
+    - emotion
+    - positive
+
+- dutch: onconventioneel
+  english: unconventional
+  type: adjective
+  difficulty: 6
+  labels:
+    - personality
+    - positive
+
+- dutch: ongehoord
+  english: unheard-of
+  type: adjective
+  difficulty: 5
+  labels:
+    - impact
+    - neutral
+
+- dutch: oppervlakkig
+  english: superficial
+  type: adjective
+  difficulty: 5
+  labels:
+    - complexity
+    - negative
+
+- dutch: paradoxaal
+  english: paradoxical
+  type: adjective
+  difficulty: 5
+  labels:
+    - complexity
+    - neutral
+
+- dutch: pastoraal
+  english: pastoral
+  type: adjective
+  difficulty: 6
+  labels:
+    - environment
+    - positive
+
+- dutch: perfectionistisch
+  english: perfectionistic
+  type: adjective
+  difficulty: 5
+  labels:
+    - personality
+    - neutral
+
+- dutch: pittig
+  english: spicy
+  type: adjective
+  difficulty: 5
+  labels:
+    - taste
+    - positive
+
+- dutch: pragmatisch
+  english: pragmatic
+  type: adjective
+  difficulty: 6
+  labels:
+    - personality
+    - positive
+
+- dutch: provocerend
+  english: provocative
+  type: adjective
+  difficulty: 6
+  labels:
+    - behavior
+    - negative
+
+- dutch: revolutionair
+  english: revolutionary
+  type: adjective
+  difficulty: 5
+  labels:
+    - impact
+    - positive
+
+- dutch: robuust
+  english: robust
+  type: adjective
+  difficulty: 5
+  labels:
+    - quality
+    - positive
+
+- dutch: romantisch
+  english: romantic
+  type: adjective
+  difficulty: 5
+  labels:
+    - emotion
+    - positive
+
+- dutch: sarcastisch
+  english: sarcastic
+  type: adjective
+  difficulty: 6
+  labels:
+    - emotion
+    - negative
+
+- dutch: sceptisch
+  english: skeptical
+  type: adjective
+  difficulty: 5
+  labels:
+    - personality
+    - neutral
+
+- dutch: sensationeel
+  english: sensational
+  type: adjective
+  difficulty: 5
+  labels:
+    - impact
+    - positive
+
+- dutch: sinister
+  english: sinister
+  type: adjective
+  difficulty: 5
+  labels:
+    - emotion
+    - negative
+
+- dutch: stereotiep
+  english: stereotypical
+  type: adjective
+  difficulty: 5
+  labels:
+    - personality
+    - negative
+
+- dutch: subtiel
+  english: subtle
+  type: adjective
+  difficulty: 6
+  labels:
+    - complexity
+    - positive
+
+- dutch: tactisch
+  english: tactical
+  type: adjective
+  difficulty: 6
+  labels:
+    - quality
+    - positive
+
+- dutch: tragisch
+  english: tragic
+  type: adjective
+  difficulty: 5
+  labels:
+    - emotion
+    - negative
+
+- dutch: triomfantelijk
+  english: triumphant
+  type: adjective
+  difficulty: 6
+  labels:
+    - emotion
+    - positive
+
+- dutch: verfijnd
+  english: refined
+  type: adjective
+  difficulty: 5
+  labels:
+    - quality
+    - positive
+
+- dutch: waanzinnig
+  english: insane
+  type: adjective
+  difficulty: 5
+  labels:
+    - emotion
+    - negative
+
+- dutch: weloverwogen
+  english: deliberate
+  type: adjective
+  difficulty: 5
+  labels:
+    - personality
+    - positive
+
+- dutch: wisselvallig
+  english: unpredictable
+  type: adjective
+  difficulty: 6
+  labels:
+    - quality
+    - neutral
+
+- dutch: zakelijk
+  english: businesslike
+  type: adjective
+  difficulty: 5
+  labels:
+    - personality
+    - neutral
+
+- dutch: zorgeloos
+  english: carefree
+  type: adjective
+  difficulty: 5
+  labels:
+    - emotion
+    - positive

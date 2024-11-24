@@ -41,7 +41,7 @@ func (ws *Store) WordDifficulty(difficulty int) *Word {
 
 func parseWords() []*Word {
 	var words []*Word
-	err := yaml.Unmarshal(assets.Nouns, &words)
+	err := yaml.Unmarshal(assets.Adjectives, &words)
 	if err != nil {
 		slog.Error("error unmarshalling words", "error", err)
 	}
